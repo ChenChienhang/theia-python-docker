@@ -101,6 +101,6 @@
         "vscode-editorconfig": "https://github.com/theia-ide/editorconfig-vscode/releases/download/v0.14.4/EditorConfig-0.14.4.vsix",
         "vscode-python": "https://github.com/microsoft/vscode-python/releases/download/2020.1.58038/ms-python-release.vsix",
         "vscode-code-runner": "https://github.91chifun.workers.dev/https://github.com//formulahendry/vscode-code-runner/releases/download/0.9.17/code-runner-0.9.17.vsix",
-        "Live Share Extension Pack": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-vsliveshare/vsextensions/vsliveshare-pack/0.4.0/vspackage"
+        "Jupyter": "http://118.178.253.239:9000/vsix/ms-toolsai.jupyter-2021.4.641214696.vsix"
     }
 }
