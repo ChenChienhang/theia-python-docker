@@ -101,6 +101,10 @@
         "vscode-editorconfig": "https://github.com/theia-ide/editorconfig-vscode/releases/download/v0.14.4/EditorConfig-0.14.4.vsix",
         "vscode-python": "https://github.com/microsoft/vscode-python/releases/download/2020.1.58038/ms-python-release.vsix",
         "vscode-code-runner": "https://github.91chifun.workers.dev/https://github.com//formulahendry/vscode-code-runner/releases/download/0.9.17/code-runner-0.9.17.vsix",
-        "Jupyter": "http://118.178.253.239:9000/vsix/ms-toolsai.jupyter-2021.4.641214696.vsix"
+        "vscode-intellicode": "http://118.178.253.239:9000/vsix/VisualStudioExptTeam.vscodeintellicode-1.2.12.vsix",
+        "vscode-leetcode": "http://118.178.253.239:9000/vsix/LeetCode.vscode-leetcode-0.17.0.vsix",
+        "vscode-livecode": "http://118.178.253.239:9000/vsix/MS-vsliveshare.vsliveshare-pack-0.4.0.vsix",
+        "vscode-eslint": "http://118.178.253.239:9000/vsix/dbaeumer.vscode-eslint-2.1.19.vsix",
+        "jupyter": "http://118.178.253.239:9000/vsix/ms-toolsai.jupyter-2021.4.641214696.vsix"
     }
 }
